@@ -45,5 +45,7 @@ public class twelve1 {
             else
                 System.out.println("0으로 나눌 수 없습니다.");
         }
+
+        scanner.close();
     }
 }

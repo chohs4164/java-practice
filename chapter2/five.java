@@ -44,5 +44,6 @@ public class five {
                 }
             }
         }
+        scanner.close();
     }
 }

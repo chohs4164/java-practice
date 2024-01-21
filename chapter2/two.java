@@ -13,5 +13,7 @@ public class two {
         }
         else
             System.out.print("No, 10의 자리와 1의 자리가 다릅니다.");
+
+        scanner.close();
     }
 }

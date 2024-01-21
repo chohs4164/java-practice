@@ -20,5 +20,7 @@ public class eight {
             System.out.println("직사각형과 충돌합니다.");
         else
             System.out.println("직사각형과 충돌하지 않습니다.");
+
+        scanner.close();
     }
 }

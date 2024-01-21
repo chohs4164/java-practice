@@ -12,5 +12,7 @@ public class three {
         int ten=money%50000%10000%1000%100%50/10;
         int one=money%50000%10000%1000%100%50%10;
         System.out.println("오만원권 "+fiftyThousand+"매\n"+"만원권 "+tenThousand+"매\n"+"천원권 "+thousand+"매\n"+"백원 "+hundred+"개\n"+"오십원 "+fifty+"개\n"+"십원 "+ten+"개\n"+"일원 "+one+"개");
+
+        scanner.close();
     }
 }

@@ -17,5 +17,7 @@ public class nine {
             System.out.println("점 ("+pointX+","+pointY+")는 원 밖에 있다.");
         else
             System.out.println("점 ("+pointX+","+pointY+")는 원 안에 있다.");
+
+        scanner.close();
     }
 }

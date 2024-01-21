@@ -28,5 +28,7 @@ public class four {
         }
         if(a==b&&b==c)
             System.out.println("중간 값은 "+a);
+
+        scanner.close();
     }
 }

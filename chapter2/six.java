@@ -18,5 +18,7 @@ public class six {
         else{
             System.out.println("3,6,9 중 어느 숫자도 없음");
         }
+
+        scanner.close();
     }
 }

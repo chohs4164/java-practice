@@ -21,5 +21,7 @@ public class ten {
             System.out.println("두 원은 서로 접한다.");
         if(radius1+radius2<distance)
             System.out.println("두 원은 서로 겹치지 않는다.");
+
+        scanner.close();
     }
 }

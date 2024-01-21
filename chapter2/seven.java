@@ -15,5 +15,7 @@ public class seven {
         }
         else
             System.out.println("(" + pointX + "," + pointY + ")는 사각형 안에 없습니다.");
+
+        scanner.close();
     }
 }
